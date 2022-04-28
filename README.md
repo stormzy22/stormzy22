@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- Start INTRO -->
 # Hi there 👋, I'm ⓌⒾⓏⓏⓎ
-### A young and passionate MERN Stack developer also a tech enthusiast. Love collaborating with other developers.
+### A young and passionate MERN Stack developer, Cyber security student and a tech enthusiast. Love collaborating with other developers.
 
 <br/>
 
